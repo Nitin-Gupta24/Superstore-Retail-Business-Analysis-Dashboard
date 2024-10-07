@@ -1,5 +1,11 @@
 # Superstore-Retail-Business-Analysis-Dashboard
 
+![Screenshot (1141)](https://github.com/user-attachments/assets/418fa155-b652-4163-a478-a2615ce0b8a4)
+![Screenshot (1142)](https://github.com/user-attachments/assets/7e6dd6e5-a250-4b09-864b-222bb72e97b4)
+![Screenshot (1143)](https://github.com/user-attachments/assets/024abd1f-0290-4035-9042-6bc358f013a9)
+![Screenshot (1144)](https://github.com/user-attachments/assets/046ef629-2c80-41d5-b7d6-98cd4a66ac2f)
+
+
 ## Case Study :
 
 A superstore retail business is a large, multi-department store that sells various products, including groceries, electronics, home goods, clothing, and more. These stores are often designed to be a one-stop shop for customers, offering a wide range of products and services under one roof. Superstores are typically larger than traditional retail stores and may have a larger product selection. Superstores are often part of a larger chain and have multiple locations in a region or country.
