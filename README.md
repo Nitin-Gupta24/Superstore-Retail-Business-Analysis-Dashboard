@@ -39,9 +39,9 @@ A Superstore dataset typically includes information about the products, customer
 ## Insights :
 
 ### * Sales and Growth :-
- 1. **Total Sales** : $2.33 million, with $923.13K coming from discounted sales.
+ 1. **Total Sales** : ₹ 2.33 million, with ₹ 923.13K coming from discounted sales.
 
- 2. **Yearly Sales** : Sales steadily increased from $470,636 in 2014 to $750,471 in 2017. 
+ 2. **Yearly Sales** : Sales steadily increased from ₹ 470,636 in 2014 to ₹ 750,471 in 2017. 
  3. **The overall growth rate** from 2014 to 2017 is **47.45%**.
 4. **Year-over-Year (YoY) Growth** : YoY growth has been positive except in 2017, which saw a 19.65% increase in sales compared to 2016. The largest YoY growth occurred between 2015 and 2016 at 29.68%.
 5. **Month-over-Month (MoM) Sales** : The dashboard shows fluctuating MoM sales, with extreme swings such as a 684.77% increase in March 2014, followed by significant drops. This indicates that sales are highly seasonal and likely driven by promotions or other factors.
