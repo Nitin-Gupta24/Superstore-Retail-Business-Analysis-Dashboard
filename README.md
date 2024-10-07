@@ -1,5 +1,5 @@
 # Superstore-Retail-Business-Analysis-Dashboard
-
+This project demonstrates an end-to-end analysis of a superstore's sales data, utilizing **Power Query** for data transformation, **DAX**for advanced calculations, and **Data Modeling** for structuring relationships between tables. The **final visualizations** are presented through interactive dashboards in **Power BI**.
 ![Screenshot (1145)](https://github.com/user-attachments/assets/e4d4d17d-2b77-42ea-b800-a378471f1c0b)
 ![Screenshot (1146)](https://github.com/user-attachments/assets/f8fbe19c-2355-40f0-8344-1c03536a55f2)
 ![Screenshot (1147)](https://github.com/user-attachments/assets/1373438f-1ec8-428f-8023-06d9fe57f6fa)
@@ -40,6 +40,11 @@ A Superstore dataset typically includes information about the products, customer
 2.  Please choose an appropriate visual for better readability and interpretation.
 3.	Please avoid using jargon while explaining data and insights.
 
+## Technologies Used :
+* **Power Query** : For data cleaning, transformation, and preparation.
+* **Data Modeling** : Creating relationships between various tables like orders, products, customers, and regions.
+* **DAX (Data Analysis Expressions)** : For custom measures, calculations, and KPIs to perform dynamic analysis.
+* **Power BI Visualizations** : For creating interactive and visually appealing reports to deliver business insights.
 
 ## Insights :
 
