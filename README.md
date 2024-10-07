@@ -1,6 +1,6 @@
 # Superstore-Retail-Business-Analysis-Dashboard
 
-![Screenshot (1141)](https://github.com/user-attachments/assets/418fa155-b652-4163-a478-a2615ce0b8a4)
+![Screenshot (1145)](https://github.com/user-attachments/assets/e4d4d17d-2b77-42ea-b800-a378471f1c0b)
 ![Screenshot (1142)](https://github.com/user-attachments/assets/7e6dd6e5-a250-4b09-864b-222bb72e97b4)
 ![Screenshot (1143)](https://github.com/user-attachments/assets/024abd1f-0290-4035-9042-6bc358f013a9)
 ![Screenshot (1144)](https://github.com/user-attachments/assets/046ef629-2c80-41d5-b7d6-98cd4a66ac2f)
