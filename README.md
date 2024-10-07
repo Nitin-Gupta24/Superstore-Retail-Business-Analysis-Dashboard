@@ -58,10 +58,9 @@ A Superstore dataset typically includes information about the products, customer
 ### * Product and Segment Insights :-
 
 1. **Sales by Category** :
-
-  * **Technology** : Top category, generating the highest sales at ₹ 872,745.
-  * **Office Supplies** : ₹ 798,889 
-  * **Furniture** : ₹ 660,381
+   * **Technology** : Top category, generating the highest sales at ₹ 872,745.
+   *  **Office Supplies** : ₹ 798,889
+   *  **Furniture** : ₹ 660,381
   
 2. **Sub-categories** like copiers and appliances also play a significant role in total sales.
 
